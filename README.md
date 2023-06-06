@@ -1,4 +1,4 @@
-<h2 align="center">
+<h1 align="center">
      <samp>
         Hey There!, I am
           <b>
@@ -6,30 +6,28 @@
                   </a>
             </b>
         </samp>
-</h2>
+</h1>
 
-<h3>
+<h2>
      <samp>
          <b>
             ⚡ About Me
          </b>
      </samp>
-</h3>
+</h2>
 
 - I am a Front-end web developer working for a Delivery Tech startup in Ghana
 - I design responsive interfaces for seamless user experiences across devices
 - I collaborate with designers and backend developers for integrated web solutions
-- I optimize performance and accessibility for efficient and inclusive web experiences
-- My daily routine includes coding, team collaboration, and personal learning
 - I love to explore new technologies and frameworks to expand my skill set
 
-<h3>
+<h2>
      <samp>
          <b>
              🕸 Languages & Tools
          </b>
      </samp>
-</h3>
+</h2>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -48,13 +46,13 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 <br>
 
-<h3>
+<h2>
      <samp>
          <b>
               🌐 Let's Connect
          </b>
      </samp>
-</h3>
+</h2>
 
 <a href="https://www.linkedin.com/in/yawson-enoch-696b71222" target="_blank">
   <img align="left" alt="Linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
