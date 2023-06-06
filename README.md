@@ -11,7 +11,22 @@
 <h3>
      <samp>
          <b>
-             💻 Technologies
+            ⚡ About Me
+         </b>
+     </samp>
+</h3>
+
+- I am a Front-end web developer working for a Delivery Tech startup in Ghana
+- I design responsive interfaces for seamless user experiences across devices
+- I collaborate with designers and backend developers for integrated web solutions
+- I optimize performance and accessibility for efficient and inclusive web experiences
+- My daily routine includes coding, team collaboration, and personal learning
+- I love to explore new technologies and frameworks to expand my skill set
+
+<h3>
+     <samp>
+         <b>
+             🕸 Languages & Tools
          </b>
      </samp>
 </h3>
