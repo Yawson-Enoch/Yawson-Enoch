@@ -54,16 +54,16 @@
      </samp>
 </h2>
 
-<a href="https://www.linkedin.com/in/yawson-enoch-696b71222" target="_blank">
+<a href="https://www.linkedin.com/in/enock-yawson-696b71222" target="_blank">
   <img align="left" alt="Linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://www.facebook.com/enoch.gybex.25" target="_blank">
+<a href="https://www.facebook.com/gybex.enock" target="_blank">
   <img align="left" alt="Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/600px-Facebook_logo_%28square%29.png" />
 </a>
-<a href="https://www.instagram.com/enochgybex25" target="_blank">
+<a href="https://www.instagram.com/gybex.enock" target="_blank">
   <img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" />
 </a>
-<a href="https://twitter.com/GyBex_Enoch" target="_blank">
+<a href="https://twitter.com/gybex_enock" target="_blank">
   <img align="left" alt="Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
 <br>
