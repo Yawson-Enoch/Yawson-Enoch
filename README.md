@@ -2,7 +2,7 @@
      <samp>
         Hey There!, I am
           <b>
-                  <a target="_blank" href="https://yawson-enoch.netlify.app">GyBex 👋
+                  <a target="_blank" href="https://gybex.dev">GyBex 👋
                   </a>
             </b>
         </samp>
