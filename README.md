@@ -16,7 +16,7 @@
      </samp>
 </h2>
 
-- I am a Front-end web developer working for a Tech startup in Ghana
+- I am a Front-end web developer
 - I develop responsive interfaces for seamless user experiences across devices
 - I collaborate with designers and backend developers for integrated web solutions
 - I love to explore new technologies and frameworks to expand my skill set
