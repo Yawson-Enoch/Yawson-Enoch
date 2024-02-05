@@ -47,24 +47,3 @@
 <br>
 <br>
 <img alt="GyBex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yawson-Enoch&theme=gruvbox&border_color=d65d0e&layout=compact" height="192px"/>
-
-<h2>
-     <samp>
-         <b>
-              🌐 Let's Connect
-         </b>
-     </samp>
-</h2>
-
-<a href="https://www.linkedin.com/in/enock-yawson-696b71222" target="_blank">
-  <img align="left" alt="Linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a href="https://twitter.com/gybex_enock" target="_blank">
-  <img align="left" alt="Twitter" width="20px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-</a>
-<a href="https://www.facebook.com/gybex.enock" target="_blank">
-  <img align="left" alt="Facebook" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/600px-Facebook_logo_%28square%29.png" />
-</a>
-<a href="https://www.instagram.com/gybex.enock" target="_blank">
-  <img align="left" alt="Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" />
-</a>
