@@ -34,16 +34,14 @@
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000)
 ![Zustand](https://img.shields.io/badge/-Zustand-FF3E00?style=for-the-badge&labelColor=black&logo=zustand&logoColor=FF3E00)
-![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=jotai&logoColor=ffffff&labelColor=000000)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&labelColor=black&logo=framer&logoColor=0055FF)
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-FF69B4?style=for-the-badge&labelColor=black&logo=react&logoColor=FF69B4)
 ![Zod](https://img.shields.io/badge/-Zod-0000FF?style=for-the-badge&labelColor=black&logo=zod&logoColor=0000FF)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Radix UI](https://img.shields.io/badge/radix-333333?style=for-the-badge)
+![Shadcn UI](https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+![Recharts](https://img.shields.io/badge/recharts-0081CB?style=for-the-badge&logo=recharts&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&labelColor=black&logo=framer&logoColor=0055FF)
 <br>
 <br>
 <img alt="GyBex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yawson-Enoch&theme=gruvbox&border_color=d65d0e&layout=compact" height="192px"/>
