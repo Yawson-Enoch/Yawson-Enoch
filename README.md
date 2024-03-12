@@ -42,6 +42,3 @@
 ![Shadcn UI](https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcn&logoColor=white)
 ![Recharts](https://img.shields.io/badge/recharts-0081CB?style=for-the-badge&logo=recharts&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&labelColor=black&logo=framer&logoColor=0055FF)
-<br>
-<br>
-<img alt="GyBex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yawson-Enoch&theme=gruvbox&border_color=d65d0e&layout=compact" height="192px"/>
