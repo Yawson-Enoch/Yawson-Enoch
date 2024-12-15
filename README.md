@@ -16,7 +16,7 @@
      </samp>
 </h2>
 
-Front-end developer proficient in React and Vue.
+Frontend developer proficient in React and Vue.
 
 <h2>
      <samp>
