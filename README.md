@@ -16,7 +16,7 @@
      </samp>
 </h2>
 
-Frontend developer highly proficient in React and Vue.
+Frontend Developer: React • Vue • Angular
 
 <h2>
      <samp>
@@ -27,9 +27,5 @@ Frontend developer highly proficient in React and Vue.
 </h2>
 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&labelColor=black&logo=nuxt.js&logoColor=00DC82)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)
